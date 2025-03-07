@@ -1,5 +1,5 @@
-Tarea: Evaluación Práctica en SQL sobre el Caso de Smart Desk
-Introducción:
+Evaluación Práctica en SQL sobre el Caso de Smart Desk
+
 Smart Desk es una empresa global dedicada a la fabricación y distribución de mobiliario
 de oficina, especializada en soluciones ergonómicas y tecnológicamente avanzadas. En
 los últimos años, Smart Desk ha expandido sus operaciones a nivel global, lo que ha
