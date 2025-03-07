@@ -13,6 +13,7 @@ industrias.
 ## Información sobre las tablas
 
 
+
 ○ Sales: Contiene datos de ventas reales por cuenta, categoría de producto,
 año, trimestre y unidades vendidas.
 
@@ -50,6 +51,7 @@ Ventas
 transacción.
 
 
+
 ○ Accounts: Esta tabla contiene detalles sobre las cuentas de clientes,
 como su ubicación, industria y los contactos relevantes.
 
@@ -69,6 +71,7 @@ contacto principal de la cuenta.
 ■ Industry (VARCHAR): Industria a la que pertenece el cliente.
 
 ■ Region (VARCHAR): Región geográfica.
+
 
 
 ○ Forecasts: Proporciona pronósticos de beneficios y oportunidades
